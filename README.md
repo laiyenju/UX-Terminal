@@ -1,4 +1,4 @@
-# UX
+# ALL ABOUT UX
 
 ## Media/Groups We Can Follow
 
