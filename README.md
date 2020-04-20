@@ -44,5 +44,6 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/) by Will Fanguy @Invision
 
-### As a Designer
+### Designer's Toolkit
+- [Workshop Facilitation 101](https://www.nngroup.com/articles/workshop-facilitation-101/)
 - [Creative Confidence: Unleashing the Creative Potential Within Us All](https://www.creativeconfidence.com) by Tom Kelly & David Kelly
