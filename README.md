@@ -48,7 +48,10 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 ## Reading List
 
-### Psychologies in Human Interaction Design
+### Basic Laws/ Principle/ Theories
+
+- [Digital Psychology](https://digitalpsychology.io)
+- [Law's of UX](https://lawsofux.com)
 
 ### Interface Design
 
@@ -64,3 +67,9 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 - [Workshop Facilitation 101](https://www.nngroup.com/articles/workshop-facilitation-101/)
 - [Creative Confidence: Unleashing the Creative Potential Within Us All](https://www.creativeconfidence.com) by Tom Kelly & David Kelly
+
+## Podcast
+
+- [設計遊牧](https://designnomads.co/podcast/)
+
+## Video
