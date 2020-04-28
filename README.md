@@ -73,3 +73,9 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 - [設計遊牧](https://designnomads.co/podcast/)
 
 ## Video
+
+## Style Books/ Guideline
+
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Apple
+- [Material Design Guideline](https://material.io/design/guidelines-overview) - Google
+- [Line Style Book](https://linecorp.com/zh-hant/company/mission) - LINE
