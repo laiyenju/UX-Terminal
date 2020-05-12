@@ -77,6 +77,9 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 ## Podcast
 
 - [設計遊牧](https://designnomads.co/podcast/)
+- [Get It Out of Your System](https://superfriendlydesign.systems/podcasts/get-it-out-of-your-system/)
+> produced by SuperFriendly, an interview podcast talking about design system.
+
 
 ## Video
 
