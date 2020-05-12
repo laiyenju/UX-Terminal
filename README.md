@@ -6,6 +6,7 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 - N/N Group
 - InVision
+- IxDA
 
 
 ## People We Better Know
@@ -64,7 +65,9 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 ### Design System
 
+- [Design Systems 101: a 10-week course about design system](https://superfriendlydesign.systems/classes/design-systems-101/)
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/) by Will Fanguy @Invision
+- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
 
 ### Designer's Toolkit
 
