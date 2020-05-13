@@ -2,7 +2,7 @@
 
 Essential UX is resource collection for 
 
-## Groups/People We Can Follow
+## Groups & People We Can Follow
 
 I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
 
@@ -30,6 +30,9 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 #### Communities in Taiwan
 
+- **IxDA Taiwan**
+
+    [Website](http://www.ixda.org.tw/) | [Facebook](https://www.facebook.com/ixda.tw/) | [Medium](https://medium.com/ixda-taiwan)
 - **HPX Campus** 
 
     [Website](https://hpx.tw/archives/tag/hpx-campus)｜[Facebook](https://www.facebook.com/groups/406348416057481/?ref=group_browse)
@@ -45,6 +48,12 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 - **Taiwan UX/UI Designers** 
 
     [Facebook](https://www.facebook.com/groups/543906982418156/?ref=group_browse)
+- **AAPD**
+
+    [Facebook](https://www.facebook.com/AAPD.tw) | [Medium](https://medium.com/as-a-product-designer)
+- **Mozilla Taipei UX**
+
+    [Medium](https://medium.com/mozilla-taipei-ux)
 - **Hacks/Hackers Taiepi** 
 
     [Website](https://hackshackers.taipei)｜[Facebook](https://www.facebook.com/groups/868771643258752/?ref=group_browse)｜[Twitter](https://twitter.com/hackshackerstpe)｜[YouTube](https://www.youtube.com/channel/UCyU45fgMo-jLs9W4h5f701w)｜[Medium](https://medium.com/hackshackerstaipei)｜[GitHub](https://github.com/hackshackerstaipei/)
@@ -87,9 +96,15 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 ## Companies With Design
 
-| Company | Social Media | Design Library | Blog |
-| ------- | ------------ | -------------- | ---- |
-| Microsoft | [twitter](https://twitter.com/MicrosoftDesign?s=20)| [figma](https://www.figma.com/@microsoft) | [website](https://www.microsoft.com/design/), [Medium](https://medium.com/microsoft-design) |
+| Company | Social Media | Open Resource Library | Blog |
+| ------- | ------------ | --------------------- | ---- |
+| Google  | [Twitter](https://twitter.com/googledesign) | https://design.google/resources/ | [Website](https://design.google/library/), [Medium](https://medium.com/google-design) |
+| Microsoft | [Twitter](https://twitter.com/MicrosoftDesign?s=20)| [Figma](https://www.figma.com/@microsoft) | [Website](https://www.microsoft.com/design/), [Medium](https://medium.com/microsoft-design) |
+| Slack   |   |  | [Medium](https://slack.design/) |
+| Dropbox | [Twitter](https://twitter.com/DropboxDesign) | [Figma](https://www.figma.com/@Dropbox) | [Website](https://dropbox.design/), [Medium](https://medium.com/dropbox-design) |
+| Airbnb  | [Twitter](https://twitter.com/Airbnbdesign) |  | [Website](), [Medium](https://medium.com/airbnb-design) |
+| Medium  | [Twitter](https://twitter.com/mediumdesign) |  | [Medium](https://medium.design/) |
+| BBC     | [Twitter](https://twitter.com/BBCAcademy) | | [Medium](https://medium.com/bbc-design-engineering) |
 
 ### Style Book/ Design Guideline
 
