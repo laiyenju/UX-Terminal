@@ -4,7 +4,7 @@ Essential UX is resource collection for
 
 ## Groups & People We Can Follow
 
-I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
+👉 Follow this [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
 
 ### Groups
 
@@ -14,8 +14,6 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 - InVision
 
 ### People
-
-I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
 
 - Donald Norman
 - John Maeda
@@ -85,8 +83,8 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 ## Podcast
 
-
-🎧 [Essential UX 中文版 podcast 大集合](https://lnns.co/E941VrILgWO)
+🎧 [Essential UX podcasts collection](https://lnns.co/BtZGHsKeOhq)
+🎧 [Essential UX 中文版 podcasts 大集合](https://lnns.co/E941VrILgWO)
 
 - [設計遊牧](https://designnomads.co/podcast/)
 - [Get It Out of Your System](https://superfriendlydesign.systems/podcasts/get-it-out-of-your-system/), produced by SuperFriendly, an interview podcast talking about design system.
@@ -113,3 +111,4 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Apple
 - [Material Design Guideline](https://material.io/design/guidelines-overview) - Google
 - [Line Style Book](https://linecorp.com/zh-hant/company/mission) - LINE
+- [Primer CSS](https://primer.style/css/) - GitHub
