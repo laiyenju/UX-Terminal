@@ -1,15 +1,19 @@
-# All About UX
+# Essential UX
 
-## Media/Groups We Can Follow
+Essential UX is resource collection for 
+
+## Groups/People We Can Follow
 
 I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
 
+### Groups
+
 - N/N Group
-- InVision
+- IDEO
 - IxDA
+- InVision
 
-
-## People We Better Know
+### People
 
 I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
 
@@ -17,11 +21,10 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 - John Maeda
 - 
 
-## Communities
+## Communities We Can Join
 
-#### Conference & Summit
+### Communities on Social Media
 
-#### Groups
 - [UI & UX Design](https://www.facebook.com/groups/153692614977217/?ref=group_browse)
 - 
 
@@ -46,22 +49,19 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
     [Website](https://hackshackers.taipei)｜[Facebook](https://www.facebook.com/groups/868771643258752/?ref=group_browse)｜[Twitter](https://twitter.com/hackshackerstpe)｜[YouTube](https://www.youtube.com/channel/UCyU45fgMo-jLs9W4h5f701w)｜[Medium](https://medium.com/hackshackerstaipei)｜[GitHub](https://github.com/hackshackerstaipei/)
 
+---
 
-## Reading List
+## Essential Learning Resources
 
 ### Basic Laws/ Principle/ Theories
 
 - [Digital Psychology](https://digitalpsychology.io)
 - [Law's of UX](https://lawsofux.com)
 
-### Interface Design
-
 ### Information Architecture
 
 - [IA Institute Resource Library](https://docs.google.com/spreadsheets/u/1/d/1fxLmmCsy2PmfPCWOtHbdlnut2gaopcy_S8b0_Z7Wkd8/htmlview?fbclid=IwAR2ZlxGbgr6KVIjsWpWKpeFzNuOqsi-tuC-3qB-4namQ34RTvnjqZesPp5Q#)
 - [Navigation stress test](http://instone.org/navstress)
-
-### Prototype
 
 ### Design System
 
@@ -76,13 +76,22 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 
 ## Podcast
 
+
+🎧 [Essential UX 中文版 podcast 大集合](https://lnns.co/E941VrILgWO)
+
 - [設計遊牧](https://designnomads.co/podcast/)
 - [Get It Out of Your System](https://superfriendlydesign.systems/podcasts/get-it-out-of-your-system/), produced by SuperFriendly, an interview podcast talking about design system.
 
 
 ## Video
 
-## Style Books/ Guideline
+## Companies With Design
+
+| Company | Social Media | Design Library | Blog |
+| ------- | ------------ | -------------- | ---- |
+| Microsoft | [twitter](https://twitter.com/MicrosoftDesign?s=20)| [figma](https://www.figma.com/@microsoft) | [website](https://www.microsoft.com/design/), [Medium](https://medium.com/microsoft-design) |
+
+### Style Book/ Design Guideline
 
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Apple
 - [Material Design Guideline](https://material.io/design/guidelines-overview) - Google
