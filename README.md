@@ -87,9 +87,6 @@ Essential UX is resource collection for
 
 🎧 [Essential UX 中文版 podcasts 大集合](https://lnns.co/E941VrILgWO)
 
-- [設計遊牧](https://designnomads.co/podcast/)
-- [Get It Out of Your System](https://superfriendlydesign.systems/podcasts/get-it-out-of-your-system/), produced by SuperFriendly, an interview podcast talking about design system.
-
 
 ## Video
 
