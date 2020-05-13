@@ -105,6 +105,8 @@ I made a [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to
 | Airbnb  | [Twitter](https://twitter.com/Airbnbdesign) |  | [Website](), [Medium](https://medium.com/airbnb-design) |
 | Medium  | [Twitter](https://twitter.com/mediumdesign) |  | [Medium](https://medium.design/) |
 | BBC     | [Twitter](https://twitter.com/BBCAcademy) | | [Medium](https://medium.com/bbc-design-engineering) |
+| Spotify | [Twitter](https://twitter.com/spotifydesign), [Instagram](https://www.instagram.com/spotify.design/) | [Figma](https://www.figma.com/@spotify) | [Website](https://spotify.design/) |
+| Facebook | [Twitter](http://twitter.com/facebookdesign), [Facebook](http://facebook.com/design), [Instagram](http://instagram.com/facebookdesign), [Dribble](http://dribbble.com/facebook) |  | [Website](https://facebook.design/blog/), [Medium](http://medium.com/facebook-design) |
 
 ### Style Book/ Design Guideline
 
