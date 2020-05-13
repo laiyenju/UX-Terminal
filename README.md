@@ -84,6 +84,7 @@ Essential UX is resource collection for
 ## Podcast
 
 🎧 [Essential UX podcasts collection](https://lnns.co/BtZGHsKeOhq)
+
 🎧 [Essential UX 中文版 podcasts 大集合](https://lnns.co/E941VrILgWO)
 
 - [設計遊牧](https://designnomads.co/podcast/)
