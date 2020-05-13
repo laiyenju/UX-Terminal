@@ -11,6 +11,7 @@ Essential UX is a collection including people, communities and learning resource
 - N/N Group
 - IDEO
 - IxDA
+- Interaction Design Foundation
 - InVision
 
 ### People
