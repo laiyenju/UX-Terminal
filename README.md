@@ -31,7 +31,7 @@ Essential UX is a collection including people, communities and learning resource
 
 - **IxDA Taiwan** - [Website](http://www.ixda.org.tw/) | [Facebook](https://www.facebook.com/ixda.tw/) | [Medium](https://medium.com/ixda-taiwan)
 - **HPX Campus** - [Website](https://hpx.tw/archives/tag/hpx-campus)｜[Facebook](https://www.facebook.com/groups/406348416057481/?ref=group_browse)
-- **UX/UI 新手村** - [Facebook](https://www.facebook.com/groups/257398065168080/?ref=group_browse)
+- **UX/UI 新手村** - [Facebook](https://www.facebook.com/groups/257398065168080/?ref=group_browse) | [Telegram](https://t.me/uxuirookiescommunity)
 - **Taipei Woman in Tech** - [Facebook](https://www.facebook.com/groups/420817431404071/?ref=group_browse)
 - **LTUX.Taipei** - [Facebook](https://www.facebook.com/ltuxtaipei/)
 - **Taiwan UX/UI Designers** - [Facebook](https://www.facebook.com/groups/543906982418156/?ref=group_browse)
