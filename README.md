@@ -28,33 +28,15 @@ Essential UX is resource collection for
 
 #### Communities in Taiwan
 
-- **IxDA Taiwan**
-
-    [Website](http://www.ixda.org.tw/) | [Facebook](https://www.facebook.com/ixda.tw/) | [Medium](https://medium.com/ixda-taiwan)
-- **HPX Campus** 
-
-    [Website](https://hpx.tw/archives/tag/hpx-campus)｜[Facebook](https://www.facebook.com/groups/406348416057481/?ref=group_browse)
-- **UX/UI 新手村** 
-    
-    [Facebook](https://www.facebook.com/groups/257398065168080/?ref=group_browse)
-- **Taipei Woman in Tech** 
-
-    [Facebook](https://www.facebook.com/groups/420817431404071/?ref=group_browse)
-- **LTUX.Taipei** 
-    
-    [Facebook](https://www.facebook.com/ltuxtaipei/)
-- **Taiwan UX/UI Designers** 
-
-    [Facebook](https://www.facebook.com/groups/543906982418156/?ref=group_browse)
-- **AAPD**
-
-    [Facebook](https://www.facebook.com/AAPD.tw) | [Medium](https://medium.com/as-a-product-designer)
-- **Mozilla Taipei UX**
-
-    [Medium](https://medium.com/mozilla-taipei-ux)
-- **Hacks/Hackers Taiepi** 
-
-    [Website](https://hackshackers.taipei)｜[Facebook](https://www.facebook.com/groups/868771643258752/?ref=group_browse)｜[Twitter](https://twitter.com/hackshackerstpe)｜[YouTube](https://www.youtube.com/channel/UCyU45fgMo-jLs9W4h5f701w)｜[Medium](https://medium.com/hackshackerstaipei)｜[GitHub](https://github.com/hackshackerstaipei/)
+- **IxDA Taiwan** - [Website](http://www.ixda.org.tw/) | [Facebook](https://www.facebook.com/ixda.tw/) | [Medium](https://medium.com/ixda-taiwan)
+- **HPX Campus** - [Website](https://hpx.tw/archives/tag/hpx-campus)｜[Facebook](https://www.facebook.com/groups/406348416057481/?ref=group_browse)
+- **UX/UI 新手村** - [Facebook](https://www.facebook.com/groups/257398065168080/?ref=group_browse)
+- **Taipei Woman in Tech** - [Facebook](https://www.facebook.com/groups/420817431404071/?ref=group_browse)
+- **LTUX.Taipei** - [Facebook](https://www.facebook.com/ltuxtaipei/)
+- **Taiwan UX/UI Designers** - [Facebook](https://www.facebook.com/groups/543906982418156/?ref=group_browse)
+- **AAPD** - [Facebook](https://www.facebook.com/AAPD.tw) | [Medium](https://medium.com/as-a-product-designer)
+- **Mozilla Taipei UX** - [Medium](https://medium.com/mozilla-taipei-ux)
+- **Hacks/Hackers Taiepi** - [Website](https://hackshackers.taipei)｜[Facebook](https://www.facebook.com/groups/868771643258752/?ref=group_browse)｜[Twitter](https://twitter.com/hackshackerstpe)｜[YouTube](https://www.youtube.com/channel/UCyU45fgMo-jLs9W4h5f701w)｜[Medium](https://medium.com/hackshackerstaipei)｜[GitHub](https://github.com/hackshackerstaipei/)
 
 ---
 
