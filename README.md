@@ -1,6 +1,6 @@
 # Essential UX
 
-Essential UX is resource collection for 
+Essential UX is a collection including people, communities and learning resources for people want to know more about design research, user research, etc. 
 
 ## Groups & People We Can Follow
 
