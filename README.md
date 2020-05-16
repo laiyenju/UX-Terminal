@@ -1,4 +1,4 @@
-# Essential UX
+# 設計終端 Essential UX
 
 Essential UX is a collection including people, communities and learning resources for people want to know more about design research, user research, etc. 
 
