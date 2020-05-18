@@ -22,6 +22,26 @@ Essential UX is a collection including people, communities and learning resource
 
 ## Communities We Can Join
 
+### Conference
+
+👉 Follow this [twitter list](https://twitter.com/i/lists/1262383731551154176?s=20) to get the latest conference news.
+
+- [ACM CHI Conference](https://twitter.com/sig_chi)
+- [ACM UIST](https://twitter.com/ACMUIST)
+- [ACM MobileHCI](https://twitter.com/ACMMobileHCI)
+- [UXcamp Europe](https://www.uxcampeurope.org) - tickets available on May 24th
+- [HCI International](http://www.hci.international/news)
+- [Design Matters](https://twitter.com/designmattersdk/)
+- [THis - Thd Human Insight Summit](https://www.usertesting.com/this20), UserTesting’s Annual 
+Customer Conference
+- [UX-Day](https://ux-day.de), user Experience in E-commerce, marketing und industries
+
+**Conference in Taiwan**
+
+- [OpenHCI 人機互動工作坊](http://www.openhci.com)
+- [TAICHI 台灣人機互動研討會](https://www.facebook.com/taiwanchi2019/)
+- [MIX 創新設計年會](https://mixconf.tw)
+
 ### Communities on Social Media
 
 - [UI & UX Design](https://www.facebook.com/groups/153692614977217/?ref=group_browse)
