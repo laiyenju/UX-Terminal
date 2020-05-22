@@ -30,6 +30,8 @@ Essential UX is a collection including people, communities and learning resource
 - [ACM UIST](https://twitter.com/ACMUIST)
 - [ACM MobileHCI](https://twitter.com/ACMMobileHCI)
 - [UXcamp Europe](https://www.uxcampeurope.org) - tickets available on May 24th
+- [UXPA](https://twitter.com/UXPA_Int) - [UXPA 2020](https://uxpa2020.org/) is on Sep.1-3
+- [CXPA](https://www.cxpa.org/home)
 - [HCI International](http://www.hci.international/news)
 - [Design Matters](https://twitter.com/designmattersdk/)
 - [THis - Thd Human Insight Summit](https://www.usertesting.com/this20), UserTesting’s Annual 
