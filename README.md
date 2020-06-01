@@ -1,6 +1,6 @@
-# 設計終端 Essential UX
+# 設計終端 UX Terminal
 
-Essential UX is a collection including people, communities and learning resources for people want to know more about design research, user research, etc. 
+設計終端是個以使用者研究、人機互動設計為主題的電子報，同時也集合多種 UX 資訊的搜集站。UX Terminal is a newsletter collection for user research, human-computer interaction and design.
 
 ## Groups & People We Can Follow
 
