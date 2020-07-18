@@ -2,27 +2,12 @@
 
 設計終端是個以使用者研究、人機互動設計為主題的電子報，同時也集合多種 UX 資訊的搜集站。UX Terminal is a newsletter collection for user research, human-computer interaction and design.
 
-## Groups & People We Can Follow
+## 😍 Groups & People
 
 👉 Follow this [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
 
-### Groups
 
-- N/N Group
-- IDEO
-- IxDA
-- Interaction Design Foundation
-- InVision
-
-### People
-
-- Donald Norman
-- John Maeda
-- 
-
-## Communities We Can Join
-
-### Conference
+## 🌈 Communities
 
 👉 Follow this [twitter list](https://twitter.com/i/lists/1262383731551154176?s=20) to get the latest conference news.
 
@@ -38,18 +23,11 @@
 Customer Conference
 - [UX-Day](https://ux-day.de), user Experience in E-commerce, marketing und industries
 
-**Conference in Taiwan**
+**Communities Taiwan**
 
 - [OpenHCI 人機互動工作坊](http://www.openhci.com)
 - [TAICHI 台灣人機互動研討會](https://www.facebook.com/taiwanchi2019/)
 - [MIX 創新設計年會](https://mixconf.tw)
-
-### Communities on Social Media
-
-- [UI & UX Design](https://www.facebook.com/groups/153692614977217/?ref=group_browse)
-- 
-
-#### Communities in Taiwan
 
 - **IxDA Taiwan** - [Website](http://www.ixda.org.tw/) | [Facebook](https://www.facebook.com/ixda.tw/) | [Medium](https://medium.com/ixda-taiwan)
 - **HPX Campus** - [Website](https://hpx.tw/archives/tag/hpx-campus)｜[Facebook](https://www.facebook.com/groups/406348416057481/?ref=group_browse)
@@ -63,7 +41,7 @@ Customer Conference
 
 ---
 
-## Essential Learning Resources
+## 📚 Learning Resources
 
 ### Basic Laws/ Principle/ Theories
 
@@ -81,19 +59,18 @@ Customer Conference
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/) by Will Fanguy @Invision
 - [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
 
-### Designer's Toolkit
+### Teamwork/ Product Management
 
 - [Workshop Facilitation 101](https://www.nngroup.com/articles/workshop-facilitation-101/)
 - [Creative Confidence: Unleashing the Creative Potential Within Us All](https://www.creativeconfidence.com) by Tom Kelly & David Kelly
+- [Shape Up](https://basecamp.com/shapeup/webbook) by Ryan Singer
 
-## Podcast
+## 🎧  Podcast
 
-🎧 [Essential UX podcasts collection](https://lnns.co/BtZGHsKeOhq)
+- [Essential UX podcasts collection](https://lnns.co/BtZGHsKeOhq)
+- [Essential UX 中文版 podcasts 大集合](https://lnns.co/E941VrILgWO)
 
-🎧 [Essential UX 中文版 podcasts 大集合](https://lnns.co/E941VrILgWO)
-
-
-## Video
+## 📺 Video
 
 ## Companies With Design
 
