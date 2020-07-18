@@ -28,7 +28,6 @@ Customer Conference
 - [OpenHCI 人機互動工作坊](http://www.openhci.com)
 - [TAICHI 台灣人機互動研討會](https://www.facebook.com/taiwanchi2019/)
 - [MIX 創新設計年會](https://mixconf.tw)
-
 - **IxDA Taiwan** - [Website](http://www.ixda.org.tw/) | [Facebook](https://www.facebook.com/ixda.tw/) | [Medium](https://medium.com/ixda-taiwan)
 - **HPX Campus** - [Website](https://hpx.tw/archives/tag/hpx-campus)｜[Facebook](https://www.facebook.com/groups/406348416057481/?ref=group_browse)
 - **UX/UI 新手村** - [Facebook](https://www.facebook.com/groups/257398065168080/?ref=group_browse) | [Telegram](https://t.me/uxuirookiescommunity)
@@ -51,13 +50,13 @@ Customer Conference
 ### Information Architecture
 
 - [IA Institute Resource Library](https://docs.google.com/spreadsheets/u/1/d/1fxLmmCsy2PmfPCWOtHbdlnut2gaopcy_S8b0_Z7Wkd8/htmlview?fbclid=IwAR2ZlxGbgr6KVIjsWpWKpeFzNuOqsi-tuC-3qB-4namQ34RTvnjqZesPp5Q#)
-- [Navigation stress test](http://instone.org/navstress)
+- [Navigation stress test](http://instone.org/navstress) by Keith Instone
 
 ### Design System
 
 - [Design Systems 101: a 10-week course about design system](https://superfriendlydesign.systems/classes/design-systems-101/)
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/) by Will Fanguy @Invision
-- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
+- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) by Brad Frost
 
 ### Teamwork/ Product Management
 
