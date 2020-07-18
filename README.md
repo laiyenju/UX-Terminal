@@ -4,12 +4,12 @@
 
 ## 😍 Groups & People
 
-👉 Follow this [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.
+**→ Follow this [twitter list](https://twitter.com/i/lists/1191346528742363136?s=20) to follow these interesting and wise people.**
 
 
 ## 🌈 Communities
 
-👉 Follow this [twitter list](https://twitter.com/i/lists/1262383731551154176?s=20) to get the latest conference news.
+**→ Follow this [twitter list](https://twitter.com/i/lists/1262383731551154176?s=20) to get the latest conference news.**
 
 - [ACM CHI Conference](https://twitter.com/sig_chi)
 - [ACM UIST](https://twitter.com/ACMUIST)
